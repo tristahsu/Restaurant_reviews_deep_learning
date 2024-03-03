@@ -57,10 +57,7 @@ Outperformed deep learning models in accuracy.
 
 Comments:
 
-Pre-trained embeddings provided a good start.
-
-No significant difference between GRU and LSTM.
-
-SVM with TF-IDF outperformed deep learning models in accuracy.
-
-Consider computational resources and dataset characteristics when choosing models.
+- Pre-trained embeddings provided a good start.
+- No significant difference between GRU and LSTM.
+- SVM with TF-IDF outperformed deep learning models in accuracy.
+- Consider computational resources and dataset characteristics when choosing models.
