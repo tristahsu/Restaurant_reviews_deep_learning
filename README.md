@@ -19,7 +19,7 @@ Utilization of Latent Dirichlet Allocation (LDA) for uncovering prevalent topics
 [Project 4](https://github.com/tristahsu/Restaurant_reviews_deep_learning/tree/main/Project%204): Text Classification with Deep Learning - Part 1 (LA4)
 Introduction to text classification using simple Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks.
 
-Project 5: Text Classification with Deep Learning - Part 2 (LA5)
+[Project 5](https://github.com/tristahsu/Restaurant_reviews_deep_learning/tree/main/Project%205): Text Classification with Deep Learning - Part 2 (LA5)
 Advanced deep learning techniques for text classification, exploring Convolutional Neural Networks (CNNs) and sophisticated RNN architectures.
 
 Each project folder contains a README.md file that details the objectives, methodology, data sources, and findings of the project. 
