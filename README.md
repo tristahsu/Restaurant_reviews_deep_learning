@@ -16,7 +16,7 @@ A comparison of various machine learning models to classify the sentiment of res
 [Project 3](https://github.com/tristahsu/Restaurant_reviews_deep_learning/tree/main/Project%203): Topic Modeling with LDA (LA3)
 Utilization of Latent Dirichlet Allocation (LDA) for uncovering prevalent topics within restaurant reviews.
 
-Project 4: Text Classification with Deep Learning - Part 1 (LA4)
+[Project 4](https://github.com/tristahsu/Restaurant_reviews_deep_learning/tree/main/Project%204): Text Classification with Deep Learning - Part 1 (LA4)
 Introduction to text classification using simple Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks.
 
 Project 5: Text Classification with Deep Learning - Part 2 (LA5)
