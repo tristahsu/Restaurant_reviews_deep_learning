@@ -24,4 +24,5 @@ This project identified key themes in customer feedback, including popular cuisi
 - Positive service experiences significantly impact customer satisfaction.
 - Effective communication and implementation of COVID-19 precautions are crucial for customer trust.
 - The ambiance and beverage selections enhance the dining experience.
+
 By focusing on these areas, restaurants can improve customer satisfaction, adapt to changing preferences, and maintain a competitive edge in the market.
