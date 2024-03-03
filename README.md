@@ -10,7 +10,7 @@ This repository contains the following deep-learning projects focused on restaur
 [Project 1](https://github.com/tristahsu/Restaurant_reviews_deep_learning/tree/main/Project%201): Text Processing Techniques (LA1)
 An introduction to basic text processing techniques essential for NLP tasks, preparing the groundwork for more advanced analysis.
 
-Project 2: Sentiment Classification with Machine Learning Approaches (LA2)
+[Project 2](https://github.com/tristahsu/Restaurant_reviews_deep_learning/tree/main/Project%202): Sentiment Classification with Machine Learning Approaches (LA2)
 A comparison of various machine learning models to classify the sentiment of restaurant reviews as positive or negative.
 
 Project 3: Topic Modeling with LDA (LA3)
