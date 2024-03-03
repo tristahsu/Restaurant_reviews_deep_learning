@@ -13,7 +13,7 @@ An introduction to basic text processing techniques essential for NLP tasks, pre
 [Project 2](https://github.com/tristahsu/Restaurant_reviews_deep_learning/tree/main/Project%202): Sentiment Classification with Machine Learning Approaches (LA2)
 A comparison of various machine learning models to classify the sentiment of restaurant reviews as positive or negative.
 
-Project 3: Topic Modeling with LDA (LA3)
+[Project 3](https://github.com/tristahsu/Restaurant_reviews_deep_learning/tree/main/Project%203): Topic Modeling with LDA (LA3)
 Utilization of Latent Dirichlet Allocation (LDA) for uncovering prevalent topics within restaurant reviews.
 
 Project 4: Text Classification with Deep Learning - Part 1 (LA4)
