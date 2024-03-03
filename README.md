@@ -1,5 +1,5 @@
 ### Restaurant Reviews Deep Learning Repository
-Welcome to the Restaurant Reviews Deep Learning Repository! This repository is a curated collection of projects that utilize advanced Natural Language Processing (NLP) and deep learning techniques to analyze restaurant reviews. These projects offer insightful analyses, ranging from sentiment analysis and topic modeling to deep learning-based text classification.
+Welcome to the Restaurant Reviews Deep Learning Repository! This repository is a curated collection of 5 mini-projects that utilize advanced Natural Language Processing (NLP) and deep learning techniques to analyze restaurant reviews. These projects offer insightful analyses, ranging from sentiment analysis and topic modeling to deep learning-based text classification.
 
 ## Tools
 These projects come along with several libraries including NumPy, pandas, scikit-learn, NLTK, Gensim, TensorFlow, and Keras. 
