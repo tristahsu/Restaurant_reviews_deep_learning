@@ -1,4 +1,4 @@
-#### Project 1: Text Processing Techniques (LA1)
+## Project 1: Text Processing Techniques (LA1)
 ## Overview
 This project serves as an introduction to the foundational text processing techniques essential for Natural Language Processing (NLP) tasks. It aims to equip users with the knowledge and tools needed to prepare text data for analysis, covering a range of preprocessing steps such as tokenization, stemming, lemmatization, and the removal of stop words.
 
