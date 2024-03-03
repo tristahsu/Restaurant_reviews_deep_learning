@@ -7,7 +7,7 @@ These projects come along with several libraries including NumPy, pandas, scikit
 ## Project Overview
 This repository contains the following deep-learning projects focused on restaurant reviews:
 
-Project 1: Text Processing Techniques (LA1)
+[Project 1](https://github.com/tristahsu/Restaurant_reviews_deep_learning/tree/main/Project%201): Text Processing Techniques (LA1)
 An introduction to basic text processing techniques essential for NLP tasks, preparing the groundwork for more advanced analysis.
 
 Project 2: Sentiment Classification with Machine Learning Approaches (LA2)
